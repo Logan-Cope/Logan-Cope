@@ -19,5 +19,6 @@ I build in public on YouTube: [youtube.com/@logancope21](https://www.youtube.com
 - [SWE is STRESSFUL](https://www.youtube.com/watch?v=dbLrzsZB4SI) (2022-09-18)
 - [Entire Computer Science Degree in 12 Minutes](https://www.youtube.com/watch?v=D3_BIazxilE) (2022-09-09)
 - [Day in the Life of a Software Engineer (For My HATERS)](https://www.youtube.com/watch?v=aRurfj8WGks) (2022-07-15)
+- [5 Tips to Snag Your Internship Return Offer!](https://www.youtube.com/watch?v=GByYO1UA1cs) (2022-07-08)
 - [I Got Rejected by Amazon (Failed Interview Miserably)](https://www.youtube.com/watch?v=30CWWSHgh4A) (2022-07-01)
 <!-- VIDEOS:END -->
