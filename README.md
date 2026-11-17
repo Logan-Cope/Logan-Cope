@@ -1,6 +1,6 @@
 ### Hi, I'm Logan
 
-I'm a software engineer building AI agents that do the searching, sorting and drafting while a person approves what matters. Everything below runs on synthetic data, has tests in CI, and works without an API key.
+I'm a software engineer building AI agents that do the searching, sorting, and drafting while a person approves what matters. Everything below runs on synthetic data, has tests in CI, and works without an API key.
 
 ### What I've built
 
